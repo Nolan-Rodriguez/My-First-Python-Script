@@ -1,0 +1,1 @@
+I literally just started with Python. I used Neovim to make the code, and whatever version of Python 3 that Arch Linux comes with. I just did a print function and an addition operator for the second line.
